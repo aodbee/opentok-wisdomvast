@@ -1,0 +1,11 @@
+{
+  "name": "opentok-wisdomvast",
+  "version": "0.1",
+  "description": "React Native OpenTok wisdomvast",
+  "main": "index.js",
+  "devDependencies": {
+    "react": "15.3.0",
+    "react-native": "^0.32.0"
+  },
+  "license": "MIT"
+}
