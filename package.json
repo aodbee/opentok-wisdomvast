@@ -1,6 +1,6 @@
 {
   "name": "opentok-wisdomvast",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -23,6 +23,6 @@
   "homepage": "https://github.com/aodbee/opentok-wisdomvast#readme",
   "dependencies":{
     "react": "15.4.0",
-    "react-native": "^0.45.1"
+    "react-native": "^0.41.1"
   }
 }
